@@ -1,2 +1,3 @@
-# foobar
-repo for foobar solutions
+# Coding-Problem-Solving
+
+Repo for coding problems -- hackerrank, foobar, etc
