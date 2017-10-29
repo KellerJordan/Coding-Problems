@@ -11,9 +11,9 @@ def sieve():
                 D[q+d].append(d)
         q += 1
 
-def verify(p):
-    for q in range(2, int(p**0.5) + 1):
-        if q % p == 0:
+def verify(n):
+    for q in range(2, int(n**0.5) + 1):
+        if n % q == 0:
             return False
     return True
 
